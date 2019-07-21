@@ -6,6 +6,7 @@
 	* Also, expected solution is O(n) time and constant extra space.
 **/
 
+#include<bits/stc++.h>
 using namespace std;
 
 int main()
